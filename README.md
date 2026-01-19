@@ -1,4 +1,4 @@
-# Verkada Duplicate Credentials Report
+# Verkada Multiple Credentials Report
 
 PowerShell script to identify Verkada Access users who have 2 or more access credentials assigned.
 
