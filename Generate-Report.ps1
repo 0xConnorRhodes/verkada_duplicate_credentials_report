@@ -1,4 +1,3 @@
-# Disable ANSI escape sequences in output when redirected
 $PSStyle.OutputRendering = 'PlainText'
 
 $scriptDir = Split-Path -Parent $MyInvocation.MyCommand.Path
